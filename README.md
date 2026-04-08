@@ -65,8 +65,8 @@
 
 <section>
   <h2>Contato</h2>
-  <p>Email: seuemail@email.com</p>
-  <p>Instagram: @seuusuario</p>
+  <p>Email: fernanda.correaac@gmail.com
+  <p>Instagram: @fernanda.brucee
 </section>
 
 </body>
